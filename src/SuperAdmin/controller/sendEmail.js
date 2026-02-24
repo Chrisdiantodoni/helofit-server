@@ -10,7 +10,7 @@ class controllerMail {
       service: "gmail",
       auth: {
         user: "Chrisdiantodoni@gmail.com",
-        pass: "khgqjogeicwsucvp",
+        pass: ,
       },
     });
     const mailOptions = {
